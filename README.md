@@ -1,2 +1,2 @@
 # react-native-smart-mpandroidchart
-原生MPAndroidChart框架
+A chart for React Native App
